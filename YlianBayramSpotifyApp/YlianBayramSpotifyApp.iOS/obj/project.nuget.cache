@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3TTVq42Xid93zl4XLmdG38OJGkC2NWS3FRN9RFFFBXSi0nRmLZzAhW5JC9wHoAgSRmr06RiPomjrulfVAefEg==",
+  "success": true,
+  "projectFilePath": "D:\\ProjetXamarin\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\YlianBayramSpotifyApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bayra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bayra\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bayra\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
