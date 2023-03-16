@@ -636,3 +636,5 @@ D:\ProjetXamarin\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\1
 D:\ProjetXamarin\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 D:\ProjetXamarin\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\ProjetXamarin\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+D:\ProjetXamarin\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\res\drawable\skull.jpg
+D:\ProjetXamarin\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\res\drawable\confettiman_logo.jpg
