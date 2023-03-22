@@ -5,7 +5,7 @@
              BackgroundColor="{AppThemeBinding Light=White, Dark=Black}">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to ArtistPage!"
+            <Label x:Name="nomart"  Text="Welcome to ArtistPage!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

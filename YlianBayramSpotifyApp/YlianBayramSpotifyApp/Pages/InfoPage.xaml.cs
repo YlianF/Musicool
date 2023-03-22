@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EliseSpotifyApp.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,8 @@ namespace YlianBayramSpotifyApp
         {
             InitializeComponent();
             BindingContext = InfoPageViewModel.Instance;
+            SpotifyService.Instance.ConnectSpotify();
+
         }
 
         async void click(object sender, EventArgs args)
