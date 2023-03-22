@@ -1062,24 +1062,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bayra\\.nuget\\packages\\": {},
+    "C:\\Users\\ylifa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetXamarin\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\YlianBayramSpotifyApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\YlianBayramSpotifyApp.iOS.csproj",
       "projectName": "YlianBayramSpotifyApp.iOS",
-      "projectPath": "D:\\ProjetXamarin\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\YlianBayramSpotifyApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\bayra\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetXamarin\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\YlianBayramSpotifyApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\ylifa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bayra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ylifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\ProjetXamarin\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj": {
-              "projectPath": "D:\\ProjetXamarin\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj"
+            "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj": {
+              "projectPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj"
             }
           }
         }

@@ -6,13 +6,15 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
 namespace YlianBayramSpotifyApp
 {
-    public partial class MainPage : TabbedPage
+    public partial class MainPage : Shell
     {
         public MainPage()
         {
             InitializeComponent();
         }
+
     }
 }

@@ -1,15 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="YlianBayramSpotifyApp.MainPage"
-             xmlns:local="clr-namespace:YlianBayramSpotifyApp"
-            NavigationPage.HasNavigationBar="False"
-            BarBackgroundColor="Black"
-            SelectedTabColor="Red"
-            UnselectedTabColor="White"
-            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-            android:TabbedPage.ToolbarPlacement="Bottom">
-    <local:InfoPage Title="1"/>
-    <local:ArtistPage Title="2"/>
-    <local:AlbumPage Title="3"/>
-</TabbedPage>
+       xmlns:pages="clr-namespace:App1.Pages" xmlns:Pages="clr-namespace:YlianBayramSpotifyApp"
+       x:Class="YlianBayramSpotifyApp.MainPage"
+       BackgroundColor="{AppThemeBinding Light=White, Dark=Black}">
+    <TabBar>
+        <Tab Title="FirstPage"
+             Icon="images/Xamarin.png">
+            <ShellContent>
+                <Pages:InfoPage></Pages:InfoPage>
+            </ShellContent>
+        </Tab>
+
+        <Tab Title="SecondPage" Icon="images/Xamarin.png">
+            <ShellContent>
+                <Pages:ArtistPage></Pages:ArtistPage>
+            </ShellContent>
+        </Tab>
+        <Tab Title="ThirdPage">
+            <ShellContent>
+                <Pages:AlbumPage></Pages:AlbumPage>
+            </ShellContent>
+        </Tab>
+    </TabBar>
+
+</Shell>
