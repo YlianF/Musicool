@@ -1278,3 +1278,5 @@ C:\Users\ylifa\source\repos\YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBay
 C:\Users\ylifa\source\repos\YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\ylifa\source\repos\YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ylifa\source\repos\YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\ylifa\source\repos\YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+C:\Users\ylifa\source\repos\YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.Android\obj\Debug\130\android\assets\SpotifyAPI.Web.dll

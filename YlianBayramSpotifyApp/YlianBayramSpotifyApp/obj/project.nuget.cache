@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2IlidVpW37chF92Z4aWQm5p1aozTHCrfL/tumWEV8YCC+LAkQwie60/XiB/B2yUtVebQq+EuCBZCLcvITvOJ1Q==",
+  "dgSpecHash": "nL/95+YSurjDlZpOtbh7yTYCXOGcXqNrQVA1m+sdYgUxEjBFnsyajEcOLgBbnKf1quT5LtqzQxVVRquJDKqjeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ylifa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ylifa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ylifa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ylifa\\.nuget\\packages\\spotifyapi.web\\7.0.0\\spotifyapi.web.7.0.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

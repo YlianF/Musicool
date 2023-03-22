@@ -50,27 +50,27 @@
             <BoxView x:Name="case1"
                      Grid.Column="0"
                      Grid.Row="0"
-                     Color="White" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case2"
                      Grid.Column="1"
                      Grid.Row="0"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case3"
                      Grid.Column="2"
                      Grid.Row="0"
-                     Color="White" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case4"
                      Grid.Column="3"
                      Grid.Row="0"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case5"
                      Grid.Column="4"
                      Grid.Row="0"
-                     Color="White" />
+                     Color="{Binding FirstColor}" />
 
 
 
@@ -79,29 +79,27 @@
             <BoxView x:Name="case6"
                      Grid.Column="0"
                      Grid.Row="1"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case7"
                      Grid.Column="1"
                      Grid.Row="1"
-                     Color="white" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case8"
                      Grid.Column="2"
                      Grid.Row="1"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case9"
                      Grid.Column="3"
                      Grid.Row="1"
-                     Color="white" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case10"
                      Grid.Column="4"
                      Grid.Row="1"
-                     Color="black" />
-
-
+                     Color="{Binding SecondColor}" />
 
 
 
@@ -110,27 +108,27 @@
             <BoxView x:Name="case11"
                      Grid.Column="0"
                      Grid.Row="2"
-                     Color="White" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case12"
                      Grid.Column="1"
                      Grid.Row="2"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case13"
                      Grid.Column="2"
                      Grid.Row="2"
-                     Color="White" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case14"
                      Grid.Column="3"
                      Grid.Row="2"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case15"
                      Grid.Column="4"
                      Grid.Row="2"
-                     Color="White" />
+                     Color="{Binding FirstColor}" />
 
 
 
@@ -140,27 +138,27 @@
             <BoxView x:Name="case16"
                      Grid.Column="0"
                      Grid.Row="3"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case17"
                      Grid.Column="1"
                      Grid.Row="3"
-                     Color="white" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case18"
                      Grid.Column="2"
                      Grid.Row="3"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
             <BoxView x:Name="case19"
                      Grid.Column="3"
                      Grid.Row="3"
-                     Color="white" />
+                     Color="{Binding FirstColor}" />
 
             <BoxView x:Name="case20"
                      Grid.Column="4"
                      Grid.Row="3"
-                     Color="black" />
+                     Color="{Binding SecondColor}" />
 
 
 

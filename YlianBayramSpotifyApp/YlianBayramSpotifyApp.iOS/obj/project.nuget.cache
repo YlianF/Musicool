@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "55ELMrkU1s3eK+tra9TBr7XCWG3gQ4URsBHw4bj1R6ggtZOmtrpAqa2qLColNfdUjD59g9iZPpcspZuXaDZGdw==",
+  "dgSpecHash": "7sZGe/3jifmDIpZTio8bJgH6grrlVYQT0dYDMpnCZtQbDfC8uzms5984f9gzZlNqdjFm/6k2vnjzB/nt/ClFYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.iOS\\YlianBayramSpotifyApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ylifa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ylifa\\.nuget\\packages\\spotifyapi.web\\7.0.0\\spotifyapi.web.7.0.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

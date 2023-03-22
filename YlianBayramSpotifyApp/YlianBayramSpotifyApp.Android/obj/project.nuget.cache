@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Tjoa2sDpldvEzPEKYBMcPiM9fdj517+1PtBLSb4Anm2dmaqXCD49352mrMyXdsNk/oGyJrUAvr+0Eq1j6xqEOA==",
+  "dgSpecHash": "GnVA40+f6BhuP2jyd8r88SaFHShWb8xzefURGDbtpjeF81nPNoKbD54BWNTXnTAxl6kTVBTJ7SqnAafPB34Bbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ylifa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ylifa\\.nuget\\packages\\spotifyapi.web\\7.0.0\\spotifyapi.web.7.0.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\ylifa\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
