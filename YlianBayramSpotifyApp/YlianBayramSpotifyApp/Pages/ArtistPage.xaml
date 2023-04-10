@@ -4,10 +4,41 @@
              x:Class="YlianBayramSpotifyApp.ArtistPage"
              BackgroundColor="{AppThemeBinding Light=White, Dark=Black}">
     <ContentPage.Content>
-        <StackLayout>
-            <Label x:Name="nomart"  Text="Welcome to ArtistPage!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+
+        <FlexLayout Direction="Column"
+                    Margin="40"
+                    JustifyContent="SpaceEvenly">
+
+            <!-- on met une frame pour arrondir les coins du rectangle bleu -->
+            <Frame BackgroundColor="CornflowerBlue"
+                Padding="20"
+                CornerRadius="30">
+
+                <StackLayout>
+                    
+                    <!-- on met une frame pour arrondir les coins de l'image -->
+                    <Frame CornerRadius="30" 
+                        Padding="0"
+                        IsClippedToBounds="True">
+                        <Image x:Name="imageArtiste" />
+                    </Frame>
+
+                    <Label x:Name="nomArtiste"
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+            </Frame>
+
+
+                <Label x:Name="genresArtiste"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+                <Label x:Name="nbFollowersArtiste"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+                <Label x:Name="populariteArtiste"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+
+        </FlexLayout>
     </ContentPage.Content>
 </ContentPage>
