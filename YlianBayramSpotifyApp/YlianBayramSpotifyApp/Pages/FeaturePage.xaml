@@ -1,12 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="YlianBayramSpotifyApp.FeaturePage">
+             x:Class="YlianBayramSpotifyApp.FeaturePage"
+             BackgroundColor="{AppThemeBinding Light=White, Dark=Black}">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+
+        <FlexLayout Direction="Column"
+                    Margin="40"
+                    JustifyContent="SpaceEvenly">
+
+            <!-- on met une frame pour arrondir les coins du rectangle bleu -->
+            <Frame BackgroundColor="CornflowerBlue"
+                Padding="20"
+                CornerRadius="30">
+
+                <StackLayout>
+
+                    <!-- on met une frame pour arrondir les coins de l'image -->
+                    <Frame CornerRadius="30" 
+                        Padding="0"
+                        IsClippedToBounds="True">
+                        <Image x:Name="Top50PlaylistImage" />
+                    </Frame>
+
+                    <Label x:Name="nomAlbum"
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+            </Frame>
+
+
+            <Label x:Name="Top50PlaylistOwner"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+            <Label x:Name="Top50PlaylistDescription"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+            <Label x:Name="Top50PlaylistFollowers"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+        </FlexLayout>
     </ContentPage.Content>
 </ContentPage>

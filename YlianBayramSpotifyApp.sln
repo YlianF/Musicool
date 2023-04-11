@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YlianBayramSpotifyApp.Andro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YlianBayramSpotifyApp.iOS", "YlianBayramSpotifyApp\YlianBayramSpotifyApp.iOS\YlianBayramSpotifyApp.iOS.csproj", "{3DAF292E-55AA-46DB-A2F7-B4D007F646B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YlianBayramSpotifyApp", "YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.csproj", "{71908913-2E5E-4F49-87D2-C8C92A6EC632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YlianBayramSpotifyApp", "YlianBayramSpotifyApp\YlianBayramSpotifyApp\YlianBayramSpotifyApp.csproj", "{71908913-2E5E-4F49-87D2-C8C92A6EC632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{5F523195-386F-4177-A4D6-641C59B0C0A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

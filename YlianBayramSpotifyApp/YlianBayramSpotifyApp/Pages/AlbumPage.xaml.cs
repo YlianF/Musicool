@@ -34,9 +34,9 @@ namespace YlianBayramSpotifyApp
             // au cas où il y ait un album avec plusieurs artistes (dans notre cas non)
             for (int i = 0; i <= nomsArtistesAlbum.Count - 2; i++)
             {
-                this.nomArtisteAlbum.Text = this.nomArtisteAlbum.Text + nomsArtistesAlbum[i].Name + " | ";
+                nomArtisteAlbum.Text = nomArtisteAlbum.Text + nomsArtistesAlbum[i].Name + " | ";
             }
-            this.nomArtisteAlbum.Text = "Artiste : " + this.nomArtisteAlbum.Text + nomsArtistesAlbum[nomsArtistesAlbum.Count - 1].Name;
+            nomArtisteAlbum.Text = "Artiste : " + nomArtisteAlbum.Text + nomsArtistesAlbum[nomsArtistesAlbum.Count - 1].Name;
 
             this.dateAlbumRealisation.Text = "Date de réalisation : " + dateAlbumRealisation;
 

@@ -16,3 +16,4 @@ D:\ProjetXamarinS\YlianBayramSpotifyApp\YlianBayramSpotifyApp\obj\Debug\netstand
 D:\ProjetXamarinS\YlianBayramSpotifyApp\YlianBayramSpotifyApp\obj\Debug\netstandard2.1\refint\YlianBayramSpotifyApp.dll
 D:\ProjetXamarinS\YlianBayramSpotifyApp\YlianBayramSpotifyApp\obj\Debug\netstandard2.1\YlianBayramSpotifyApp.pdb
 D:\ProjetXamarinS\YlianBayramSpotifyApp\YlianBayramSpotifyApp\obj\Debug\netstandard2.1\ref\YlianBayramSpotifyApp.dll
+D:\ProjetXamarinS\YlianBayramSpotifyApp\YlianBayramSpotifyApp\obj\Debug\netstandard2.1\Pages\FeaturePage.xaml.g.cs
