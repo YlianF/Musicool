@@ -4,10 +4,43 @@
              x:Class="YlianBayramSpotifyApp.AlbumPage"
              BackgroundColor="{AppThemeBinding Light=White, Dark=Black}">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to AlbumPage!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+
+        <FlexLayout Direction="Column"
+                    Margin="40"
+                    JustifyContent="SpaceEvenly">
+
+            <!-- on met une frame pour arrondir les coins du rectangle bleu -->
+            <Frame BackgroundColor="CornflowerBlue"
+                Padding="20"
+                CornerRadius="30">
+
+                <StackLayout>
+
+                    <!-- on met une frame pour arrondir les coins de l'image -->
+                    <Frame CornerRadius="30" 
+                        Padding="0"
+                        IsClippedToBounds="True">
+                        <Image x:Name="imageAlbum" />
+                    </Frame>
+
+                    <Label x:Name="nomAlbum"
+                           HorizontalTextAlignment="Center"/>
+                </StackLayout>
+            </Frame>
+
+
+            <Label x:Name="nomArtisteAlbum"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+            <Label x:Name="listeDesTitres"  Text="Voici les titres :"
+                       HorizontalTextAlignment="Center"/>
+            
+            <ListView x:Name="listeTitres"
+                      HeightRequest="150"/>
+
+            <Label x:Name="dateAlbumRealisation"  Text=""
+                       HorizontalTextAlignment="Center"/>
+
+        </FlexLayout>
     </ContentPage.Content>
 </ContentPage>

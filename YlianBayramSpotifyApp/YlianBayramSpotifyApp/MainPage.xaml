@@ -22,6 +22,11 @@
                 <Pages:AlbumPage></Pages:AlbumPage>
             </ShellContent>
         </Tab>
+        <Tab Title="FourthPage">
+            <ShellContent>
+                <Pages:FeaturePage></Pages:FeaturePage>
+            </ShellContent>
+        </Tab>
     </TabBar>
 
 </Shell>

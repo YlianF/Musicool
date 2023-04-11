@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj": {}
+    "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj": {
+    "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj",
+        "projectUniqueName": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj",
         "projectName": "YlianBayramSpotifyApp.Android",
-        "projectPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj",
-        "packagesPath": "C:\\Users\\ylifa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\obj\\",
+        "projectPath": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\YlianBayramSpotifyApp.Android.csproj",
+        "packagesPath": "C:\\Users\\bayra\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ylifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj": {
-                "projectPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj"
+              "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj": {
+                "projectPath": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj": {
+    "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj",
+        "projectUniqueName": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj",
         "projectName": "YlianBayramSpotifyApp",
-        "projectPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj",
-        "packagesPath": "C:\\Users\\ylifa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ylifa\\source\\repos\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\obj\\",
+        "projectPath": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp.csproj",
+        "packagesPath": "C:\\Users\\bayra\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjetXamarinS\\YlianBayramSpotifyApp\\YlianBayramSpotifyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ylifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

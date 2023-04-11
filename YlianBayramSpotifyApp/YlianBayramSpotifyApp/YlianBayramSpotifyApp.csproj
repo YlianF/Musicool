@@ -11,10 +11,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Pages\OurPage.xaml.cs" />
+    <Compile Remove="Pages\View1.xaml.cs" />
     <Compile Remove="View1.xaml.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Remove="Pages\OurPage.xaml" />
+    <EmbeddedResource Remove="Pages\View1.xaml" />
     <EmbeddedResource Remove="View1.xaml" />
   </ItemGroup>
 
