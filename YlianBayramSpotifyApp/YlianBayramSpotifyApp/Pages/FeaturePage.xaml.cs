@@ -17,7 +17,6 @@ namespace YlianBayramSpotifyApp
 		{
 			InitializeComponent ();
 
-			//var recentlyPlayedTracks = SpotifyService.Instance.GetSpotifyClient().Player.GetCurrentPlayback().Result.Device.
 			var top50 = "37i9dQZEVXbMDoHDwVN2tF";
             var Top50PlaylistImage = SpotifyService.Instance.GetSpotifyClient().Playlists.Get(top50).Result.Images[0].Url;
 			var Top50PlaylistOwner = SpotifyService.Instance.GetSpotifyClient().Playlists.Get(top50).Result.Owner.DisplayName;
@@ -30,7 +29,7 @@ namespace YlianBayramSpotifyApp
 			this.Top50PlaylistImage.Source = Top50PlaylistImage;
 			this.Top50PlaylistDescription.Text = "Description : " + Top50PlaylistDescription;
 			this.Top50PlaylistFollowers.Text = "Nombre de Followers : " + Top50PlaylistFollowers;
-            //this.recentlyPlayedTracks.Text = recentlyPlayedTracks;
+
         }
 
 	}
