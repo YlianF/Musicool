@@ -6,7 +6,7 @@ namespace EliseSpotifyApp.Service
 {
     public class SpotifyService
     {
-        const string TokenSpotify = "BQBoi97AxHrAEijpzV-zeKyazPjhw7ksgnZ7YkyilIrZZSGjgX1XIrb7aBfoMigU8z5u12Bu9EinlKDM4FW5aQVcWj3_uhURgo_iESgzVvEv_Pm65GeB";
+        const string TokenSpotify = "BQBtsyrcMiT6WuYv8WNw-aa6auN1cSUraSmxXccgkvxfkfrW_veCEgfa9OuFnEqT1idbTpyUjpFU6YEl_E-4Lz7UtgQBFiikye10roSl7O5ZxrOlW7dn";
         private SpotifyClient _spotifyClient;
         #region Instance
 

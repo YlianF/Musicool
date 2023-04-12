@@ -22,10 +22,11 @@ namespace YlianBayramSpotifyApp
 			var Top50PlaylistOwner = SpotifyService.Instance.GetSpotifyClient().Playlists.Get(top50).Result.Owner.DisplayName;
 			var Top50PlaylistDescription = SpotifyService.Instance.GetSpotifyClient().Playlists.Get(top50).Result.Description;
             var Top50PlaylistFollowers = SpotifyService.Instance.GetSpotifyClient().Playlists.Get(top50).Result.Followers.Total.ToString();
+			var Top50PlaylistTitle = SpotifyService.Instance.GetSpotifyClient().Playlists.Get(top50).Result.Name;
 
-			
-			
-			this.Top50PlaylistOwner.Text = "Par : " + Top50PlaylistOwner;
+
+			this.Top50PlaylistTitle.Text = Top50PlaylistTitle;
+            this.Top50PlaylistOwner.Text = "Par : " + Top50PlaylistOwner;
 			this.Top50PlaylistImage.Source = Top50PlaylistImage;
 			this.Top50PlaylistDescription.Text = "Description : " + Top50PlaylistDescription;
 			this.Top50PlaylistFollowers.Text = "Nombre de Followers : " + Top50PlaylistFollowers;

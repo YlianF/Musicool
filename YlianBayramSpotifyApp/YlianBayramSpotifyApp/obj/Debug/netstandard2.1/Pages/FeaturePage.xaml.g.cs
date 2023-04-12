@@ -23,6 +23,9 @@ namespace YlianBayramSpotifyApp {
         private global::Xamarin.Forms.Label nomAlbum;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.Label Top50PlaylistTitle;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Label Top50PlaylistOwner;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
@@ -36,6 +39,7 @@ namespace YlianBayramSpotifyApp {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FeaturePage));
             Top50PlaylistImage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "Top50PlaylistImage");
             nomAlbum = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "nomAlbum");
+            Top50PlaylistTitle = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Top50PlaylistTitle");
             Top50PlaylistOwner = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Top50PlaylistOwner");
             Top50PlaylistDescription = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Top50PlaylistDescription");
             Top50PlaylistFollowers = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Top50PlaylistFollowers");

@@ -28,7 +28,9 @@
                 </StackLayout>
             </Frame>
 
-
+            <Label x:Name="Top50PlaylistTitle"  Text=""
+                       HorizontalTextAlignment="Center"/>
+            
             <Label x:Name="Top50PlaylistOwner"  Text=""
                        HorizontalTextAlignment="Center"/>
 
